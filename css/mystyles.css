@@ -1,98 +1,98 @@
 h1{
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
 }
 
 .header{
-    background-color: black;
-    color: white;
-    height: 100px;
-    line-height: 100px;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-bottom: 0px;
+    background-color: black!important;
+    color: white!important;
+    height: 100px!important;
+    line-height: 100px!important;
+    text-align: center!important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif!important;
+    margin-bottom: 0px!important;
 }
 
 
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 35% !important;
 }
 
 nav{
-    background-color: gray;
-    padding: 10px;
-    overflow: hidden;
-    text-align: center;
-    height: 40px;
-    line-height: 40px;
-    margin-top: 0px;
+    background-color: gray!important;
+    padding: 10px!important;
+    overflow: hidden!important;
+    text-align: center!important;
+    height: 40px!important;
+    line-height: 40px!important;
+    margin-top: 0px!important;
 }
 
 nav a{
-    padding: 12px;
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
+    padding: 12px!important;
+    text-decoration: none!important;
+    font-weight: bold!important;
+    color: black!important;
 }
 
 nav a:hover{
-    background-color: #ccc;
+    background-color: #ccc!important;
 }
 
 .maintitle{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 50px;
-    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif!important;
+    font-size: 50px!important;
+    text-align: center!important;
 }
 
 .description{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
-    text-align: center;
-    margin-left: 300px;
-    margin-right: 300px;
+    font-family: Arial, Helvetica, sans-serif!important;
+    font-size:medium!important;
+    text-align: center!important;
+    margin-left: 300px!important;
+    margin-right: 300px!important;
 }
 
 ul {
-    text-align: center;
-    list-style-position: inside;
+    text-align: center!important;
+    list-style-position: inside!important;
 }
 
 .arnoldlist{
-    text-align: center;
-    font-size: medium;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: center!important;
+    font-size: medium!important;
+    font-family: Arial, Helvetica, sans-serif!important;
 }
 
 .video{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 35%!important;
 }
 
 .tableauPlaceholder{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 35%!important;
 }
 
 .commonfooter{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    height: 20px;
+    text-align: center!important;
+    font-family: Arial, Helvetica, sans-serif!important;
+    height: 20px!important;
 }
 
 .top{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: center!important;
+    font-family: Arial, Helvetica, sans-serif!important;
 }
 
 .main{
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(248, 248, 248)!important;
 }
 
